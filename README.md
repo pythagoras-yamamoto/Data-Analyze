@@ -1,1 +1,1 @@
-### ツイートと株価の相関関係を調べる
+To summary, my intend project is about find the relative between Tweets with the stock price.
